@@ -1,0 +1,11 @@
+com\marcio\adaptersgbd\adapter\MySqlAdapter.class
+com\marcio\adaptersgbd\sgbd\ParadoxSgbd.class
+com\marcio\adaptersgbd\service\GerenciadorBancoDados$1.class
+com\marcio\adaptersgbd\service\GerenciadorBancoDados.class
+com\marcio\adaptersgbd\adapter\FirebirdAdapter.class
+com\marcio\adaptersgbd\AdapterSgbdApplication.class
+com\marcio\adaptersgbd\sgbd\FirebirdSgbd.class
+com\marcio\adaptersgbd\adapter\ParadoxAdapter.class
+com\marcio\adaptersgbd\adapter\SgbdAdapter.class
+com\marcio\adaptersgbd\sgbd\MySqlSgbd.class
+com\marcio\adaptersgbd\perfil\PerfilCliente.class
